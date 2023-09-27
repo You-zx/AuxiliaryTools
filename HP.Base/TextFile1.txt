@@ -1,0 +1,10 @@
+﻿
+
+HP.Base包含以下几个模块
+
+1、缓存辅助	Caching
+2、中文转全拼/首拼	ChineseToPinYin
+3、文件转换辅助	FileHelpers
+4、Setting辅助	Setting
+5、文件单个/批量压缩	ZipFileHelper
+6、

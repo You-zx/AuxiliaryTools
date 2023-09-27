@@ -1,6 +1,12 @@
-﻿namespace HP.Base;
+﻿using System;
+using System.Collections;
+using System.Web;
+using System.Web.Caching;
+using System.Configuration;
 
-/// <summary>
+namespace Hp.Base
+{
+    /// <summary>
     /// Caching缓存类
     /// </summary>
     public class Caching
@@ -82,3 +88,4 @@
             return al;
         }
     }
+}

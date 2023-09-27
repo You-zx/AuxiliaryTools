@@ -1,7 +1,7 @@
-using System.Text;
+﻿using System.Text;
 using System.Text.RegularExpressions;
 
-namespace Hp.Base
+namespace Hp.Data
 {
     /// <summary>
     /// 汉字拼音互转辅助类
